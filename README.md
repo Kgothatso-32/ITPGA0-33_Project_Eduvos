@@ -1,2 +1,3 @@
 # ITPGA0-33
 Developing a Python console-based Inventory and Loyalty Application for Kasi Fresh Grocers to help branch staff manage product stock and customer loyalty points.
+Developing a Python console-based Inventory and Loyalty Application for Kasi Fresh Grocers to help branch staff manage product stock and customer loyalty points. This project will be developed in Python and will cover object-oriented programming principles, including classes and objects, inheritance hierarchies, polymorphism (method overriding), exception handling, basic data persistence (saving and loading files), and building an interactive text-menu loop.
